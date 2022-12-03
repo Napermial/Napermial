@@ -1,9 +1,16 @@
-<h1 align="center">👋, I'm Peter Hatvani👺</h1>
+<h1 align="center">👋, I'm Peter Hatvani 👺</h1>
+<h2>
+  I connect 🖇 things, mostly cloud ⛅ to client application and backend services. I am the guy who wires up 🔌 the endpoints to let the services speak 💬 each other’s language 😁. I love to be up to my neck 🏊🏻 in the system and understand the processes that govern the flow of information. 
+
+I am obsessed with UTF-8 compatibility because I adhere to attaching images to text without using extra bandwidth.
+
+I have worked on several projects using the Azure ecosystem using Python (3.6+) functions and SQL server. My current repertoire consists of Node with Typescript and FastAPI. I have experience with Spring Boot (Java 8), React and Vue. During my master’s program I have worked on several NLP group projects where I learned about the state-of-the-art deep learning algorithms.
+</h2>
 
 ![](https://komarev.com/ghpvc/?username=Napermial&style=for-the-badge&color=lightgrey	)
 
 - 🔭 working on a misinformation classifier in Hungarian
-- 👷🏻‍♀️ working at Lensa ![image](https://user-images.githubusercontent.com/22302671/205450817-da74bdb8-c02b-4b23-8bf1-4c28eaafd3a3.png)
+- 👷🏻‍♀️ working at Lensa as a backend developer
 
 
 <h3 align="left">Languages and Tools:</h3>
